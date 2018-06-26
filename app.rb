@@ -8,7 +8,7 @@ get '/' do
 end
 
 get '/nutritious' do
-"hello world"
+"hello world".upcase
 end 
 
 end
