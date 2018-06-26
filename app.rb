@@ -18,12 +18,12 @@ end
 
 end
 get 'home-county' do 
-  "north county" .upcase
+  "north county".upcase
 end
 
 end
 get '/fav-song' do
-  "i dont have one" .upcase
+  "i dont have one".upcase
 end
 
 end
