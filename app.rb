@@ -7,6 +7,4 @@ get '/' do
 
 end
 
-
-
 end 
