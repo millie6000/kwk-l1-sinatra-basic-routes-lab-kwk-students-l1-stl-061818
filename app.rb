@@ -17,7 +17,7 @@ get '/gov-name' do
 end
 
 
-get 'home-county' do 
+get '/home-county' do 
   "north county".upcase
 end
 
